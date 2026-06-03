@@ -1,0 +1,28 @@
+"ScrewDiameter"= 2.5
+"ScrewLength"= 8
+"ScrewChamferDistance"= 1.25
+
+"ThreadedInsertDiameter" = 3.9
+"ThreadedInsertLength" = 5.2
+
+"ReinforcingFilamentRodsDiameter"= 2.3
+"ReinforcingFilamentRodsLength"= 9
+
+"ServoCaseLength"= 23.9
+"ServoCaseHeight"= 25
+"ServoCaseWidth"= 11.7
+"ServoMountingPlateLength"= 32.1
+"ServoMountingPlateHeight"= 1.4
+"ServoMountingPlateBottomOffset"= 15.1
+"ServoScrewsDiameter"= 1.6
+"ServoScrewsLength"= 9
+"ServoScrewsDistance"= 27.6
+"ServoGearboxLength"= 15
+"ServoGearboxHeight"= 4
+"ServoAxleDiameter"= 4
+"ServoAxleHeight"= 4
+"ServoHornHeight"= 4
+"ServoHornHoleOffset"= 13.7
+
+"BatteryLength"= 150
+"BatteryWidth"= 47
